@@ -2,10 +2,10 @@ import Button from "../components/Button";
 
 const Profile = () => {
   return (
-    <div>
+    <main>
       <h1>Esta es la página Profile</h1>
       <Button />
-    </div>
+    </main>
   );
 };
 
