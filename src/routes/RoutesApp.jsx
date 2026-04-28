@@ -4,7 +4,7 @@ import Home from "../pages/Home";
 import Profile from "../pages/Profile";
 import MyJob from "../pages/MyJob";
 
-const Routes = () => {
+const RoutesApp = () => {
   const { theme } = useTheme();
 
   return (
