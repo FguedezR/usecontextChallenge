@@ -9,6 +9,10 @@ body {
   font-size: 16px;
 }
 
+.App {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
 .App.light {
   min-height: 100vh;
   background-color: #f5f5f5;
