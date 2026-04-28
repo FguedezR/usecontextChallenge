@@ -2,10 +2,10 @@ import Button from "../components/Button";
 
 const MyJob = () => {
   return (
-    <div>
+    <main>
       <h1>Esta es la página MyJobs</h1>
       <Button />
-    </div>
+    </main>
   );
 };
 
